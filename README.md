@@ -1,1 +1,1 @@
-// first task from HPI
+// first task from KhPI "Libmx"
